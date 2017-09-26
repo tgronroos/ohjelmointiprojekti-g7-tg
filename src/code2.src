@@ -4,12 +4,13 @@ function getOlio(){
   return olio;
 }
 
-function addPropertyIkäToOlio(age) {
+function addIkäToOlio(age) {
   olio.ikä = age;
 }
 
 Function getIkäFromOlio(olio) {
-  return olio.ikä
+  return olio.ikä;
 }
 
-var y = ();
+var yz = ();
+
