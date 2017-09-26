@@ -1,0 +1,5 @@
+var mj = 'kissa'
+
+Function getMerkkijono() {
+return mj;
+}
