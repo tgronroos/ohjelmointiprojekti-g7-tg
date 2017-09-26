@@ -13,4 +13,3 @@ Function getIkäFromOlio(olio) {
 }
 
 var y = ();
-}
